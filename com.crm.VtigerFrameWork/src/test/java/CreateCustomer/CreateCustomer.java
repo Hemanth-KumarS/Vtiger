@@ -8,5 +8,6 @@ public class CreateCustomer {
 	public void CreateCustomerTest() {
 		System.out.println("customer created");
 		System.out.println("Git pull");
+		System.out.println("Jekins execution");
 	}
 }
