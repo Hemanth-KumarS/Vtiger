@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65" started-at="2022-10-29T12:54:06 IST" finished-at="2022-10-29T12:54:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65" started-at="2022-10-29T12:54:06 IST" finished-at="2022-10-29T12:54:06 IST">
+      <class name="ModifyCustomer.ModifyCustomer">
+        <test-method status="PASS" signature="ModifyCustomerTest()[pri:0, instance:ModifyCustomer.ModifyCustomer@60285225]" name="ModifyCustomerTest" duration-ms="2" started-at="2022-10-29T12:54:06 IST" finished-at="2022-10-29T12:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyCustomerTest -->
+      </class> <!-- ModifyCustomer.ModifyCustomer -->
+      <class name="DeleteCustomer.DeleteCustomer">
+        <test-method status="PASS" signature="DeleteCustomerTest()[pri:0, instance:DeleteCustomer.DeleteCustomer@58c1670b]" name="DeleteCustomerTest" duration-ms="10" started-at="2022-10-29T12:54:06 IST" finished-at="2022-10-29T12:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCustomerTest -->
+      </class> <!-- DeleteCustomer.DeleteCustomer -->
+      <class name="CreateCustomer.CreateCustomer">
+        <test-method status="PASS" signature="CreateCustomerTest()[pri:0, instance:CreateCustomer.CreateCustomer@7113b13f]" name="CreateCustomerTest" duration-ms="1" started-at="2022-10-29T12:54:06 IST" finished-at="2022-10-29T12:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCustomerTest -->
+      </class> <!-- CreateCustomer.CreateCustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
